@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -tl | heah -n 10
