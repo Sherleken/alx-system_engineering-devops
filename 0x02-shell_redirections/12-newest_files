@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -tl | heah -n 10
+ls -tl | head -n 10
